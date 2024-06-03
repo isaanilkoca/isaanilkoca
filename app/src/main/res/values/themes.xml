@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.JavaMaps" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here.
+         darkaction bar menüyü göstermek icin gerekli temada themes xml-->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.JavaMaps" parent="Base.Theme.JavaMaps" />
+</resources>
